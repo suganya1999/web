@@ -1,0 +1,84 @@
+body
+{
+	padding:auto 0;
+	margin: auto 0;
+	overflow-x:hidden;
+}
+.pagecenter {
+    float: left;
+    width: 100%;
+    background-color: #f4f5f7;
+    height: 500px;
+    position: relative;
+    left: 4.4em;
+    top: 6.9em;
+}
+.bta {
+    float: left;
+    width: 60.2%;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #fafafa;
+    border: 1px #fafafa;
+    text-align: left;
+    font-size: 18.3px;
+    position: relative;
+    top: 1.5em;
+    left: 11.8em;
+}
+
+.para {
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 2.7em;
+	font-size: 18px;
+}
+
+
+	.upload {
+    float: left;
+    width: 10%;
+    text-align: center;
+    height: 126.9px;
+    background-color: #fafafa;
+    position: relative;
+    top: 1em;
+   
+    left: 14.3em;
+}
+
+.bo {
+    float: left;
+    width: 100%;
+    position: relative;
+    left: 1.5em;
+    top: 0.8em;
+}
+.uu
+{
+	font-size:19px;
+	margin-top:2.6em;
+}
+.arr
+{
+font-size:20px; 
+color:#92a0ab;}
+.sidenav {
+  
+    height: 100%;
+    width: 72.6px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #fafafa;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.sidenav img
+{
+	    width: 99.4%;
+}
+
